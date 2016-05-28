@@ -1,0 +1,22 @@
+{
+  "name": "starterkit-mustache-kitchensink",
+  "version": "0.1.0",
+  "description": "A Pattern Tree that attempts to showcase a broad array of PL/Node features for demos and testing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmuenzenmeyer/starterkit-mustache-kitchensink.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Mustache",
+    "Kitchensink",
+    "Starterkit"
+  ],
+  "author": "Brian Muenzenmeyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmuenzenmeyer/starterkit-mustache-kitchensink/issues"
+  },
+  "homepage": "https://github.com/bmuenzenmeyer/starterkit-mustache-kitchensink#readme"
+}
